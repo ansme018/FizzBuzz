@@ -1,10 +1,6 @@
 //FizzBuzz
 //Rules: 1 to 100; Divisble by 3:fizz; Divisble by 5: "buzz"; Divisble by 3 and 5 "fizz buzz"
 
-
-	
-
-
 //
 //Loop through numbers
 
